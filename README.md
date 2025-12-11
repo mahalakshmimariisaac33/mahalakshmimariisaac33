@@ -17,11 +17,6 @@ My GitHub reflects my learning journey — simple → improved → better every 
 
 ---
 
-## 🚀 Projects I'm Proud Of
-- **Expense Tracker App** – A simple Agile-based project to manage daily expenses  
-- **Space-Themed Multi-Page Website** – Planets, moons, asteroids, comets  
-- **HTML/CSS/JS Workshop Projects** – Weekly tasks & mini websites  
-- **Placement Preparation Website** – Ongoing full-page learning platform
 
 (You can add more GitHub project links here)
 
