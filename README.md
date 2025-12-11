@@ -9,7 +9,7 @@
 </p>
 
 
-# 👋 Hi, I'm Maha Lakshmi
+ HiI'm Maha Lakshmi
 
 A passionate learner and growing developer.  
 I love building clean interfaces, solving problems, and improving step by step.  
@@ -32,31 +32,30 @@ My GitHub reflects my learning journey — simple → improved → better every 
   HTML • CSS • JavaScript • Java • Python  
 
 - **Other Skills:**  
-  React (Basic), Git & GitHub, Agile Concepts, Software Testing Basics, Problem Solving  
+  React (Basic), Git & GitHub,Problem Solving  
 
 - **Currently Learning:**  
-  Web Development • Java OOPs • DSA • UI/UX improvements
+  Web Development • UI/UX improvements
 
 ---
 
 ## 📊 CodeLio Profile
 Check out my coding progress and task solutions on CodeLio:  
-👉 *Add your CodeLio link here*
-
+👉 https://codolio.com/profile/cVmLPWrV
 ---
 
 ## 🎯 My Goals
-- Build stronger development skills  
+
 - Build more real-world projects  
 - Become a confident full-stack developer  
 
 ---
 
 ## 📫 Connect With Me
-- Email: *your email*
-- LinkedIn (optional): *your link*
-- Portfolio (optional): *your site*
+- Email: kit27.csbs33@gmail.com
+- LinkedIn : https://www.linkedin.com/in/maha-lakshmi-6626172a5/
+
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my work and track my growth.
+⭐ Thanks for visiting my profile!
