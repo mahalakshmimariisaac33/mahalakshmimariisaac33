@@ -1,5 +1,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maha%20Lakshmi%20M&fontSize=45&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20|%20Web%20Development%20Learner&descAlignY=55)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=Coding+is+like+crafting+ideas+into+reality" />
+</p>
+
 ## 👋 Hi there!
 
 
@@ -59,7 +63,7 @@ A responsive website promoting solar energy and eco-friendly practices
 - Profile: https://www.codechef.com/users/kit27csbs33 
 - Beginner → Improving  
 
----## 🛠️ Technologies  
+ 🛠️ Technologies  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,13 +76,11 @@ A responsive website promoting solar energy and eco-friendly practices
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahalakshmimariisaac33&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mahalakshmimariisaac33&theme=tokyonight)
 
 
 ---
 
-## 🤝 Soft Skills  
-- Problem Solving  
+## 🤝 Soft Skills   
 - Continuous Learning  
 - Time Management  
 - Team Collaboration  
