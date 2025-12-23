@@ -1,18 +1,103 @@
-# 💫 About Me:
-Hi 👋 I'm a CSBS student exploring the world of Software development.<br><br>🔹 Started with basics  <br>🔹 Learning by making mistakes  <br>🔹 Improving through projects  <br><br>🛠 Tech Stack:<br>HTML • CSS • JavaScript • React • Java • Python<br><br>📌 My goal is to become a better developer every day.<br>This GitHub is a record of that journey.<br>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maha%20Lakshmi%20M&fontSize=45&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20|%20Web%20Development%20Learner&descAlignY=55)
 
+## 👋 Hi there!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maha-lakshmi-6626172a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kit27.csbs33@gmail.com) 
+🎓 **B.Tech CSBS Student | Web Development Learner**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahalakshmimariisaac33&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahalakshmimariisaac33&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmimariisaac33&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a Computer Science & Business Systems student who enjoys building clean, user-friendly websites and is starting my journey into **backend development with Express.js**.  
+I strongly believe in learning **step-by-step and consistently** 🚀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahalakshmimariisaac33&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 My Learning Journey  
+- ✔ HTML, CSS, JavaScript fundamentals  
+- 🌱 Currently learning **Express.js (Beginner level)**  
+- 🎯 Next: Node.js basics & backend projects  
+- 🧠 Practicing DSA on LeetCode & CodeChef  
+
+---
+
+## 🔧 Skills & Tools  
+
+### 💻 Programming Languages  
+- Java  
+- Python  
+- JavaScript (Basics)  
+
+### 🌐 Web Development  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Express.js (Learning 🚀)  
+
+### ⚙️ Tools  
+- VS Code  
+- Git & GitHub  
+
+---
+
+## 🛠️ Projects  
+
+### 🎉 Udhayam Decors  
+A website showcasing wedding and event decoration services with a clean UI  
+**Tech:** HTML, CSS, JavaScript  
+
+### ☀️ Solar Project  
+A responsive website promoting solar energy and eco-friendly practices  
+**Tech:** HTML, CSS, JavaScript  
+
+👉 Backend projects coming soon using Express.js 🚀  
+
+---
+
+## 🧠 Competitive Programming  
+
+🔹 **LeetCode**  
+- Profile: https://leetcode.com/leetcode-username  
+- Practicing DSA and logical problem-solving  
+
+🔹 **CodeChef**  
+- Profile: https://www.codechef.com/users/codechef-username  
+- Beginner → Improving  
+
+---
+
+## 🛠️ Technologies  
+![HTML](https://img.shields.io/badge/HTML5-Beginner-orange)
+![CSS](https://img.shields.io/badge/CSS3-Beginner-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![Express](https://img.shields.io/badge/Express.js-Learning-green)
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+## 🤝 Soft Skills  
+- Problem Solving  
+- Continuous Learning  
+- Time Management  
+- Team Collaboration  
+
+---
+
+## 🎯 Goals  
+- Learn backend development step-by-step  
+- Build Express.js mini projects  
+- Improve DSA skills for placements  
+- Become a confident full-stack developer  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: **kit27.csbs33@gmail.com**  
+- 💼 LinkedIn: *Maha Lakshmi*  
+
+---
+
+⭐ **Quote I Believe In:**  
+> *“Consistency beats perfection.”*
