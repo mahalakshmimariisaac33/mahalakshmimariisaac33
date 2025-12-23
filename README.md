@@ -2,7 +2,7 @@
 
 ## 👋 Hi there!
 
-🎓 **B.Tech CSBS Student | Web Development Learner**
+
 
 I’m a Computer Science & Business Systems student who enjoys building clean, user-friendly websites and is starting my journey into **backend development with Express.js**.  
 I strongly believe in learning **step-by-step and consistently** 🚀
@@ -22,7 +22,6 @@ I strongly believe in learning **step-by-step and consistently** 🚀
 ### 💻 Programming Languages  
 - Java  
 - Python  
-- JavaScript (Basics)  
 
 ### 🌐 Web Development  
 - HTML5  
@@ -53,27 +52,27 @@ A responsive website promoting solar energy and eco-friendly practices
 ## 🧠 Competitive Programming  
 
 🔹 **LeetCode**  
-- Profile: https://leetcode.com/leetcode-username  
+- Profile: https://leetcode.com/u/kit27csbs33/
 - Practicing DSA and logical problem-solving  
 
 🔹 **CodeChef**  
-- Profile: https://www.codechef.com/users/codechef-username  
+- Profile: https://www.codechef.com/users/kit27csbs33 
 - Beginner → Improving  
 
 ---
 
 ## 🛠️ Technologies  
-![HTML](https://img.shields.io/badge/HTML5-Beginner-orange)
-![CSS](https://img.shields.io/badge/CSS3-Beginner-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![HTML](https://img.shields.io/badge/HTML5)
+![CSS](https://img.shields.io/badge/CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript)
 ![Express](https://img.shields.io/badge/Express.js-Learning-green)
 
 ---
-
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahalakshmimariisaac33&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mahalakshmimariisaac33&theme=tokyonight)
+
 
 ---
 
@@ -95,7 +94,7 @@ A responsive website promoting solar energy and eco-friendly practices
 
 ## 📫 Connect With Me  
 - 📧 Email: **kit27.csbs33@gmail.com**  
-- 💼 LinkedIn: *Maha Lakshmi*  
+- 💼 LinkedIn: https://www.linkedin.com/in/maha-lakshmi-6626172a5/ 
 
 ---
 
