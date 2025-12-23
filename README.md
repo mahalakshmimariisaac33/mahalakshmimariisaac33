@@ -60,12 +60,13 @@ A responsive website promoting solar energy and eco-friendly practices
 - Beginner → Improving  
 
 ---
-
 ## 🛠️ Technologies  
-![HTML](https://img.shields.io/badge/HTML5)
-![CSS](https://img.shields.io/badge/CSS3)
-![JavaScript](https://img.shields.io/badge/JavaScript)
-![Express](https://img.shields.io/badge/Express.js-Learning-green)
+
+![HTML5](https://img.shields.io/badge/HTML5-Beginner-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Beginner-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ---
 ## 📊 GitHub Stats  
