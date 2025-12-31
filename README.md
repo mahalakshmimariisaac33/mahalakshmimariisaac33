@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maha%20Lakshmi%20M&fontSize=45&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=55)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&center=true&vCenter=true&width=700&lines=Consistency+beats+perfection.;Learning+step+by+step+every+day.;Building+skills+for+real-world+software+development." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&center=true&vCenter=true&width=750&lines=Consistency+beats+perfection.;Learning+step+by+step+every+day.;Building+skills+for+real-world+software+development." />
 </p>
 
 ---
@@ -11,32 +11,32 @@
 Hi, I’m **Maha Lakshmi M**, a **B.Tech Computer Science & Business Systems (CSBS)** student.  
 I enjoy building **clean, user-friendly web applications** and I am currently learning **backend development using Express.js**.
 
-I strongly believe in **consistent learning and hands-on practice** to grow as a software developer 🚀
+I believe in **consistent learning, practice, and gradual improvement** to grow as a software developer.
 
 ---
 
 ## 🌱 Current Learning  
 
-- ✔ HTML, CSS, JavaScript fundamentals  
-- 🌱 **Express.js (Beginner – Backend basics)**  
-- 🎯 Next: Node.js core concepts & REST APIs  
-- 🧠 Practicing **DSA** on LeetCode & CodeChef  
+- HTML, CSS, JavaScript fundamentals  
+- Express.js (Beginner – Backend basics)  
+- Node.js core concepts (upcoming)  
+- DSA practice on LeetCode & CodeChef  
 
 ---
 
 ## 🔧 Technical Skills  
 
-### 💻 Programming Languages  
+### Programming Languages  
 - Java  
 - Python  
 
-### 🌐 Web Development  
+### Web Development  
 - HTML5  
 - CSS3  
 - JavaScript  
 - Express.js *(Learning)*  
 
-### ⚙️ Tools & Platforms  
+### Tools & Platforms  
 - Git & GitHub  
 - VS Code  
 
@@ -48,23 +48,39 @@ I strongly believe in **consistent learning and hands-on practice** to grow as a
 Website showcasing wedding and event decoration services with a clean UI.  
 **Tech Stack:** HTML, CSS, JavaScript  
 
+---
+
 ### ☀️ Solar Energy Website  
 Responsive website promoting solar energy and eco-friendly practices.  
 **Tech Stack:** HTML, CSS, JavaScript  
+
+---
+
+### ✅ To-Do List Application  
+A simple task management application to add, delete, and mark tasks as completed.  
+Focuses on DOM manipulation and clean UI design.  
+
+**Tech Stack:** HTML, CSS, JavaScript  
+
+---
 
 👉 Backend projects using **Express.js** coming soon 🚀
 
 ---
 
-## 🧠 Competitive Programming  
+## 🧠 Competitive Programming Profiles  
 
-🔹 **LeetCode**  
-- Profile: https://leetcode.com/u/kit27csbs33/  
-- Focus: DSA, problem-solving, logic building  
-
-🔹 **CodeChef**  
-- Profile: https://www.codechef.com/users/kit27csbs33  
-- Level: Beginner → Improving  
+<p align="left">
+  <a href="https://leetcode.com/u/kit27csbs33/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/kit27csbs33">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codolio.com/profile/kit27csbs33">
+    <img src="https://img.shields.io/badge/Codolio-2F80ED?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -93,17 +109,26 @@ Responsive website promoting solar energy and eco-friendly practices.
 
 ## 🎯 Career Goals  
 
-- Build strong backend fundamentals  
-- Create real-world Express.js projects  
-- Improve DSA for placements  
-- Grow into a confident **Full-Stack Developer**  
+- Strengthen backend development skills  
+- Build real-world Express.js applications  
+- Improve DSA for placement preparation  
+- Grow into a confident Full-Stack Developer  
 
 ---
 
 ## 📫 Connect With Me  
 
-- 📧 Email: **kit27.csbs33@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/maha-lakshmi-6626172a5/  
+<p align="left">
+  <a href="mailto:kit27.csbs33@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maha-lakshmi-6626172a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mahalakshmimariisaac33">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
