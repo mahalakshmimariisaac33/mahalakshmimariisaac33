@@ -26,6 +26,11 @@ I believe in **consistent learning, practice, and gradual improvement** to grow 
 
 ## 🔧 Technical Skills  
 
+## 📈 Technical Skill Graph  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmimariisaac33&layout=compact&theme=tokyonight)
+
+
 ### Programming Languages  
 - Java  
 - Python  
