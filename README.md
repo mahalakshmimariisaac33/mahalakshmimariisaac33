@@ -1,27 +1,30 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maha%20Lakshmi%20M&fontSize=45&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20|%20Web%20Development%20Learner&descAlignY=55)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maha%20Lakshmi%20M&fontSize=45&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=55)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=Coding+is+like+crafting+ideas+into+reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6FA4FC&center=true&vCenter=true&width=700&lines=Consistency+beats+perfection.;Learning+step+by+step+every+day.;Building+skills+for+real-world+software+development." />
 </p>
 
-## 👋 Hi there!
+---
 
+## 👋 About Me  
 
+Hi, I’m **Maha Lakshmi M**, a **B.Tech Computer Science & Business Systems (CSBS)** student.  
+I enjoy building **clean, user-friendly web applications** and I am currently learning **backend development using Express.js**.
 
-I’m a Computer Science & Business Systems student who enjoys building clean, user-friendly websites and is starting my journey into **backend development with Express.js**.  
-I strongly believe in learning **step-by-step and consistently** 🚀
+I strongly believe in **consistent learning and hands-on practice** to grow as a software developer 🚀
 
 ---
 
-## 🌱 My Learning Journey  
+## 🌱 Current Learning  
+
 - ✔ HTML, CSS, JavaScript fundamentals  
-- 🌱 Currently learning **Express.js (Beginner level)**  
-- 🎯 Next: Node.js basics & backend projects  
-- 🧠 Practicing DSA on LeetCode & CodeChef  
+- 🌱 **Express.js (Beginner – Backend basics)**  
+- 🎯 Next: Node.js core concepts & REST APIs  
+- 🧠 Practicing **DSA** on LeetCode & CodeChef  
 
 ---
 
-## 🔧 Skills & Tools  
+## 🔧 Technical Skills  
 
 ### 💻 Programming Languages  
 - Java  
@@ -31,75 +34,78 @@ I strongly believe in learning **step-by-step and consistently** 🚀
 - HTML5  
 - CSS3  
 - JavaScript  
-- Express.js (Learning 🚀)  
+- Express.js *(Learning)*  
 
-### ⚙️ Tools  
-- VS Code  
+### ⚙️ Tools & Platforms  
 - Git & GitHub  
+- VS Code  
 
 ---
 
 ## 🛠️ Projects  
 
 ### 🎉 Udhayam Decors  
-A website showcasing wedding and event decoration services with a clean UI  
-**Tech:** HTML, CSS, JavaScript  
+Website showcasing wedding and event decoration services with a clean UI.  
+**Tech Stack:** HTML, CSS, JavaScript  
 
-### ☀️ Solar Project  
-A responsive website promoting solar energy and eco-friendly practices  
-**Tech:** HTML, CSS, JavaScript  
+### ☀️ Solar Energy Website  
+Responsive website promoting solar energy and eco-friendly practices.  
+**Tech Stack:** HTML, CSS, JavaScript  
 
-👉 Backend projects coming soon using Express.js 🚀  
+👉 Backend projects using **Express.js** coming soon 🚀
 
 ---
 
 ## 🧠 Competitive Programming  
 
 🔹 **LeetCode**  
-- Profile: https://leetcode.com/u/kit27csbs33/
-- Practicing DSA and logical problem-solving  
+- Profile: https://leetcode.com/u/kit27csbs33/  
+- Focus: DSA, problem-solving, logic building  
 
 🔹 **CodeChef**  
-- Profile: https://www.codechef.com/users/kit27csbs33 
-- Beginner → Improving  
+- Profile: https://www.codechef.com/users/kit27csbs33  
+- Level: Beginner → Improving  
 
- 🛠️ Technologies  
+---
+
+## 🛠️ Technologies  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahalakshmimariisaac33&show_icons=true&theme=tokyonight)
 
-
-
 ---
 
-## 🤝 Soft Skills   
+## 🤝 Soft Skills  
+
 - Continuous Learning  
 - Time Management  
 - Team Collaboration  
 
 ---
 
-## 🎯 Goals  
-- Learn backend development step-by-step  
-- Build Express.js mini projects  
-- Improve DSA skills for placements  
-- Become a confident full-stack developer  
+## 🎯 Career Goals  
+
+- Build strong backend fundamentals  
+- Create real-world Express.js projects  
+- Improve DSA for placements  
+- Grow into a confident **Full-Stack Developer**  
 
 ---
 
 ## 📫 Connect With Me  
+
 - 📧 Email: **kit27.csbs33@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/maha-lakshmi-6626172a5/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/maha-lakshmi-6626172a5/  
 
 ---
 
-⭐ **Quote I Believe In:**  
+⭐ **Quote I Believe In**  
 > *“Consistency beats perfection.”*
